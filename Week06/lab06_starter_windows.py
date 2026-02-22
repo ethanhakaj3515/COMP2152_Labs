@@ -1,7 +1,7 @@
 # ============================================================
 #  WEEK 06 LAB: NETWORK DIAGNOSTIC LOGGER
 #  COMP2152 — Windows Version
-#  [Your Name Here]
+#  [Ethan Hakaj]
 # ============================================================
 #
 #  This program runs network commands (ping, nslookup, ipconfig),
@@ -549,5 +549,5 @@ def main():
 #  TEST YOUR WORK
 # ============================================================
 # After completing Tasks 1-3, uncomment the line below to run:
-# main()
+main()
 # ============================================================
